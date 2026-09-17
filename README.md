@@ -1,2 +1,9 @@
 # c-programs
-My C language programs - BCA 1st Year
+
+## About Me
+Name: Prince Kumar
+Course: BCA
+Started: September 2026
+
+### topics
+- 
