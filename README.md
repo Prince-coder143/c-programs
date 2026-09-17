@@ -6,4 +6,5 @@ Course: BCA
 Started: September 2026
 
 ### topics
-- 
+- hello world program
+- arithmetic operators
