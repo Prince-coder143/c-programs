@@ -2,7 +2,9 @@
 
 ## About Me
 Name: Prince Kumar
+
 Course: BCA
+
 Started: September 2026
 
 ### topics
@@ -15,5 +17,5 @@ Started: September 2026
 - Circle calculation (Area, Circumference)
 - Triangle calculation (Area)
 - Swap operations(Numbers, Characters)
-- Marks and persentage of 5 subjects
+- Marks and percentage of 5 subjects
 - Interest calculation (SI, Amount, CI)
