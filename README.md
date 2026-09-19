@@ -6,5 +6,14 @@ Course: BCA
 Started: September 2026
 
 ### topics
-- hello world program
-- arithmetic operators
+- Hello world program
+- Arithmetic operators
+- Absolute value using abs()
+- Power calculation using pow()
+- Square calculation (Area, Perimeter)
+- Rectangle calculation (Area, Perimeter)
+- Circle calculation (Area, Circumference)
+- Triangle calculation (Area)
+- Swap operations(Numbers, Characters)
+- Marks and persentage of 5 subjects
+- Interest calculation (SI, Amount, CI)
