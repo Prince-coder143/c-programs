@@ -20,4 +20,4 @@ Started: September 2026
 - Marks and percentage of 5 subjects
 - Interest calculation (SI, Amount, CI)
 - Temperature conversion (Celcius to fahrenheit)
-- 
+- Datatype size calculation using sizeof()
