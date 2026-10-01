@@ -11,4 +11,4 @@ int main()
     // Output
     printf("Area: %.2f\n", area);
     return 0;
-}    
+}   
