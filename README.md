@@ -15,9 +15,10 @@ Started: September 2026
 - Square calculation (Area, Perimeter)
 - Rectangle calculation (Area, Perimeter)
 - Circle calculation (Area, Circumference)
-- Triangle calculation (Area)
+- Triangle area calculation base-height method
+- Triangle area calculation using Heron formula 
 - Swap operations(Numbers, Characters)
 - Marks and percentage of 5 subjects
 - Interest calculation (SI, Amount, CI)
-- Temperature conversion (Celsius to Fahrenheit)
+- Temperature conversion (Celsius - Fahrenheit)
 - Datatype size calculation using sizeof()
