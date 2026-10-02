@@ -7,7 +7,7 @@ Course: BCA
 
 Started: September 2026
 
-### topics
+## topics
 - Hello world program
 - Arithmetic operators
 - Absolute value using abs()
@@ -29,3 +29,5 @@ Started: September 2026
 - Two-subject marks checker
 - Combined logical expression
 - Short-Circuit Evaluation (&&, ||)
+## About This Repository
+This repository contains my C programming practice programs as I learn C from the basics.
