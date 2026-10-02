@@ -22,3 +22,9 @@ Started: September 2026
 - Interest calculation (SI, Amount, CI)
 - Temperature conversion (Celsius - Fahrenheit)
 - Datatype size calculation using sizeof()
+- Logical operators (AND, OR, NOT)
+- Positive numbers checker
+- Age conditions checker
+- Numbers range checker
+- Two-subject marks checker
+- Combined logical expression
