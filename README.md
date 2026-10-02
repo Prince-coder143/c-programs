@@ -21,7 +21,7 @@ Started: September 2026
 - Marks and percentage of 5 subjects
 - Interest calculation (SI, Amount, CI)
 - Temperature conversion (Celsius - Fahrenheit)
-- Datatype size calculation using sizeof()
+- Data type size using sizeof()
 - Logical operators (AND, OR, NOT)
 - Positive numbers checker
 - Age conditions checker
@@ -29,5 +29,6 @@ Started: September 2026
 - Two-subject marks checker
 - Combined logical expression
 - Short-Circuit Evaluation (&&, ||)
+
 ## About This Repository
 This repository contains my C programming practice programs as I learn C from the basics.
