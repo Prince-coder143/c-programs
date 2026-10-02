@@ -28,3 +28,4 @@ Started: September 2026
 - Numbers range checker
 - Two-subject marks checker
 - Combined logical expression
+- Short-Circuit Evaluation (&&, ||)
