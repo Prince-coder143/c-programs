@@ -29,6 +29,9 @@ Started: September 2026
 - Two-subject marks checker
 - Combined logical expression
 - Short-Circuit Evaluation (&&, ||)
+- Assignment Operator - Medium Practice
+- Assignment Operator - Hard Practice
+- Assignment Operator - Advance Hard Practice 
 
 ## About This Repository
 This repository contains my C programming practice programs as I learn C from the basics.
