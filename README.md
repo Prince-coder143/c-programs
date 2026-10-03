@@ -32,6 +32,7 @@ Started: September 2026
 - Assignment Operator - Medium Practice
 - Assignment Operator - Hard Practice
 - Assignment Operator - Advance Hard Practice 
+- Increment and Decrement Operators (Practice)
 
 ## About This Repository
 This repository contains my C programming practice programs as I learn C from the basics.
