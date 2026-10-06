@@ -35,6 +35,7 @@ Started: September 2026
 - Increment and Decrement Operators (Practice)
 - Demonstrate Bitwise AND(&) Operators
 - Demonstrate Bitwise OR(|) Operators
+- Demonstrate Bitwise XOR(^) Operators 
 
 ## About This Repository
 This repository contains my C programming practice programs as I learn C from the basics.
