@@ -37,6 +37,7 @@ Started: September 2026
 - Demonstrate Bitwise OR(|) Operators
 - Demonstrate Bitwise XOR(^) Operators 
 - Demonstrate Bitwise NOT(~) Operators
+- Demonstrate Bitwise Shift(<<, >>) Operators 
 
 ## About This Repository
 This repository contains my C programming practice programs as I learn C from the basics.
