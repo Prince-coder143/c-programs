@@ -34,6 +34,7 @@ Started: September 2026
 - Assignment Operator - Advance Hard Practice 
 - Increment and Decrement Operators (Practice)
 - Demonstrate Bitwise AND(&) Operators
+- Demonstrate Bitwise OR(|) Operators
 
 ## About This Repository
 This repository contains my C programming practice programs as I learn C from the basics.
