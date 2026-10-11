@@ -39,6 +39,7 @@ Started: September 2026
 - Demonstrate Bitwise NOT(~) Operators
 - Demonstrate Bitwise Shift(<<, >>) Operators 
 - Bitwise Operators (Mixed Calculation)
+- Greatest Numbers Checker(Ternary Operator)
 
 ## About This Repository
 This repository contains my C programming practice programs as I learn C from the basics.
