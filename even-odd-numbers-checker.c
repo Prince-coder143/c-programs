@@ -15,7 +15,7 @@
      //Calculation
      result = (num & 1);
      
-     //Display the result using ternary operator
+     //Display the result using ternary operator 
      (result == 1) ? printf("Odd") : printf("Even");
      
      return 0;
