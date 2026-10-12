@@ -1,4 +1,4 @@
-# c-programs
+# C-Programs
 
 ## About Me
 Name: Prince Kumar
@@ -7,7 +7,7 @@ Course: BCA
 
 Started: September 2026
 
-## topics
+## Topics
 - Hello world program
 - Arithmetic operators
 - Absolute value using abs()
@@ -40,7 +40,7 @@ Started: September 2026
 - Demonstrate Bitwise Shift(<<, >>) Operators 
 - Bitwise Operators (Mixed Calculation)
 - Greatest Numbers Checker(Ternary Operator)
-- Even-Odd Numbers Checker(Bitwise AND(&) Or Ternary Operator)
+- Even-Odd Number Checker(Bitwise AND Or Ternary Operator)
 - Number Sign Checker (Ternary Operator)
 - Even-Odd Numbers Checker (Ternary Operator)
 
