@@ -41,6 +41,8 @@ Started: September 2026
 - Bitwise Operators (Mixed Calculation)
 - Greatest Numbers Checker(Ternary Operator)
 - Even Or Odd Numbers Checker(&, ?)
+- Number Sign Checker (Ternary Operator)
+- Even Odd Numbers Checker (Ternary Operator)
 
 ## About This Repository
 This repository contains my C programming practice programs as I learn C from the basics.
