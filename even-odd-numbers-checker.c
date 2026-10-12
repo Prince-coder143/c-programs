@@ -1,5 +1,5 @@
 /* Project: Even Odd Numbers Checker
- * Using Bitwise And(&) and Ternary Operators */
+ * Using Bitwise And and Ternary Operators */
  
  #include <stdio.h>
  
