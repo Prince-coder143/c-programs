@@ -43,7 +43,7 @@ Started: September 2026
 - Even-Odd Number Checker(Bitwise AND Or Ternary Operator)
 - Number Sign Checker (Ternary Operator)
 - Even-Odd Numbers Checker (Ternary Operator)
-- 
+- Positive, Negative Or Zero Checker(if-else)
 
 ## About This Repository
 This repository contains my C programming practice programs as I learn C from the basics.
