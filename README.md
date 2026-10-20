@@ -44,6 +44,8 @@ Started: September 2026
 - Number Sign Checker (Ternary Operator)
 - Even-Odd Numbers Checker (Ternary Operator)
 - Positive, Negative Or Zero Checker(if-else)
+- Even Or Odd Checker (if - else)
+- Voting Eligibilty Check (if - else)
 
 ## About This Repository
 This repository contains my C programming practice programs as I learn C from the basics.
