@@ -47,6 +47,7 @@ Started: September 2026
 - Even Or Odd Checker (if - else)
 - Voting Eligibilty Checker (if - else)
 - Greatest Number Checker (if - else)
+- Temperature Stutas Checker (if - else)
 
 
 ## About This Repository
