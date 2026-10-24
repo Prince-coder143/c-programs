@@ -48,6 +48,7 @@ Started: September 2026
 - Voting Eligibilty Checker (if - else)
 - Greatest Number Checker (if - else)
 - Temperature Stutas Checker (if - else)
+- Student Result and Grade Checker(if - else)
 
 
 ## About This Repository
